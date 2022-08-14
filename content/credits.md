@@ -42,3 +42,4 @@ description = "contributors and packages used by hugo-theme-docdock"
 
 * [Netlify](https://www.netlify.com) - Continuous deployement and hosting of this documentation
 * [Hugo](https://gohugo.io/) {{%icon "fa-smile-o"%}}
+* [DocDock Theme](https://docdock.netlify.app/) {{%icon "fa-paint-brush"%}}
