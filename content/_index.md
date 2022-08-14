@@ -3,8 +3,9 @@ title = "DocDock Theme for Hugo"
 description = ""
 +++
 
-# Hugo docDock theme
-[Hugo-theme-docdock {{%icon fa-github%}}](https://github.com/vjeantet/hugo-theme-docdock) is a theme for Hugo, a fast and modern static website engine written in Go. Hugo is often used for blogs, **this theme is fully designed for documentation.**
+# PostgreSQL dcoumentation for beginners
+[mohamedallam1991/postgres {{%icon fa-database%}}](https://github.com/mohamedallam1991/postgres) is a documentation for SQL and percisly Postgres, a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation **this docs is fully for learning purposes.**
+
 
 This theme is a partial porting of the [Learn theme of matcornic {{%icon fa-github%}}](https://github.com/matcornic/hugo-theme-learn). and its default style "flex" comes from [facette.io](https://github.com/facette)'s documentation.
 
@@ -49,4 +50,3 @@ Automatically published and hosted thanks to [Netlify](https://www.netlify.com/)
 
 Read more about [Automated HUGO deployments with Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)
 {{% /panel %}}
-
