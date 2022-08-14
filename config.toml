@@ -50,9 +50,9 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
-name = "<i class='fa fa-github'></i> <label>Github repository</label>"
+name = "<i class='fa fa-github'></i> <label>Github repo</label>"
 identifier = "ds"
-url = "https://github.com/vjeantet/hugo-theme-docdock"
+url = "https://github.com/mohamedallam1991/postgres"
 weight = 10
 
 [[menu.shortcuts]]
@@ -61,9 +61,9 @@ url = "https://github.com/vjeantet/hugo-theme-docdock/archive/master.zip"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-bookmark'></i> <label>Hugo Documentation</label>"
+name = "<i class='fa fa-bookmark'></i> <label>Head to Docs</label>"
 identifier = "hugodoc"
-url = "https://gohugo.io/"
+url = "https://github.com/mohamedallam1991/postgres"
 weight = 20
 
 [[menu.shortcuts]]
