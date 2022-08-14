@@ -9,7 +9,8 @@ lastmodifierdisplayname = "Mohamed Allam"
 lastmodifieremail = "meda3gm@gmail.com"
 tags = ["crud","tables"]
 weight = 10
-pre ="<i class='fa fa-edit' ></i> "
+fa-hand-o-right
+pre ="<i class='fa fa-hand-o-right' ></i> "
 
 +++
 
