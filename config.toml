@@ -4,7 +4,7 @@ theme = "docdock"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "DocDock Documentation"
+title = "PostgreSQL Documentation"
 # theme = "hugo-theme-docdock"
 # themesdir = "../.."
 pygmentsCodeFences = true
@@ -50,7 +50,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 pre = "<h3>More</h3>"
-name = "<i class='fa fa-github'></i> <label>Github repo</label>"
+name = "<i class='fa fa-github'></i> <label>Github repository</label>"
 identifier = "ds"
 url = "https://github.com/vjeantet/hugo-theme-docdock"
 weight = 10
