@@ -3,7 +3,7 @@ title = "PostgreSQL dcoumentation for beginners"
 description = "This is a beginner friendly documentation, for anyone out there starting out"
 +++
 
-# PostgreSQL dcoumentation for beginners
+# PostgreSQL documentation for beginners
 [mohamedallam1991/postgres {{%icon fa-database%}}](https://github.com/mohamedallam1991/postgres) is a documentation for SQL and percisly Postgres, a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation **this docs is fully for learning purposes.**
 
 
