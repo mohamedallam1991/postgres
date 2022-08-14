@@ -1,6 +1,6 @@
 +++
-title = "DocDock Theme for Hugo"
-description = ""
+title = "PostgreSQL dcoumentation for beginners"
+description = "This is a beginner friendly documentation, for anyone out there starting out"
 +++
 
 # PostgreSQL dcoumentation for beginners
