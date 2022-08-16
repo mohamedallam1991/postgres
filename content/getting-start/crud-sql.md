@@ -1,7 +1,7 @@
 +++
 slug = "crud-sql"
 title = "CRUD SQL queries"
-description = ""
+description = "Basic sql steps, to get up and running CRUD and batch CRUD"
 weight = 3
 +++
 
