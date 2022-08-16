@@ -3,6 +3,9 @@ slug = "crud-sql"
 title = "CRUD SQL queries"
 description = "Basic sql steps, to get up and running CRUD and batch CRUD"
 weight = 3
+tags = ["basics","crud"]
+creatordisplayname = "Mohamed ALLAM"
+creatoremail = "meda3gm@gmail.com"
 +++
 
 
