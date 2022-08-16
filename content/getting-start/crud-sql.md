@@ -5,12 +5,9 @@ description = ""
 weight = 3
 +++
 
-{{% alert theme="warning" %}}HUGO **v0.32** minimum required to use this theme{{%/alert%}}
 
 
-
-The following steps are here to help you initialize your new website. If you don’t know Hugo at all, we strongly suggest you to train by following this [great documentation for beginners](https://gohugo.io/overview/quickstart/).
-<!--more-->
+The following steps will help you get started as quickly as possible, manipulating SQL data.
 
 ## Intro
 
